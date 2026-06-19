@@ -271,6 +271,17 @@ systemd-networkd
 ```
 
 ---
+### Windows Users
+
+Reidentify is not designed for native Windows environments and is currently only supported on Debian-based Linux distributions.
+
+If you are a Windows user and would like to experiment with Reidentify, the recommended approach is to use **Windows Subsystem for Linux (WSL)** with a supported Debian-based distribution such as Ubuntu or Debian.
+
+Keep in mind that WSL does not provide direct access to all physical networking hardware in the same way as a native Linux installation. As a result, some functionality, particularly MAC address manipulation and low-level network configuration, may be limited or unavailable depending on your WSL version and system configuration.
+
+For the best experience and full feature support, run Reidentify on a native Debian-based Linux installation.
+
+---
 
 ## Disclaimer
 
