@@ -144,8 +144,6 @@ This creates a fresh network identity profile and can cause many networks and se
 
 ## What Reidentify Does NOT Do
 
-Reidentify is not an anonymity tool.
-
 It does **not** hide:
 
 - Hardware serial numbers
