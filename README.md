@@ -7,6 +7,9 @@ Reidentify is an interactive Bash utility that allows you to modify and manage n
 By randomizing identifiers commonly used by networks and services, Reidentify can make a system appear as a different device without permanently modifying the operating system. All changes are session-based and can be reverted at any time.
 
 ---
+## Beta
+Reidentify still is in development, therefore some features may not work as intended, and feedback is always welcome.
+---
 
 ## Features
 
